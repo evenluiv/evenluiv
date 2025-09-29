@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![evenluiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=evenluiv)](https://github.com/evenluiv/github-readme-stats)
+[![evenluiv's GitHub stats](https://evenluiv-repository.vercel.app/api?username=evenluiv)](https://github.com/evenluiv/github-readme-stats)
 
 <!--
 **evenluiv/evenluiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
