@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![evenluiv's GitHub stats](https://evenluiv-repository.vercel.app/api?username=evenluiv&show_icons=true&theme=dark&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&rank_icon=github)](https://github.com/evenluiv/github-readme-stats)
+[![evenluiv's GitHub stats](https://github-readme-stats-ruddy-one-62.vercel.app/api?username=evenluiv&show_icons=true&theme=dark&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&rank_icon=github)](https://github.com/evenluiv/github-readme-stats)
 
 <!--
 **evenluiv/evenluiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
